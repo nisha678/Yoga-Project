@@ -1,0 +1,15 @@
+{
+    "13": {"duration": 31.00, "timestamps": [[01.00, 05.00], [06.00, 14.00], [15.00, 20.00], [24.00, 30.00]],
+    "sentences": ["Lie down on the ground facing the floor with your chest and abdomen touching the ground", "Place the palms near the chest facing the ground and slowly lift the head.
+    The elbows should be straicompletelyght and stretched ", "Look left and right slowly.","Release the pose by relaxing the abdomen first on the ground, then chest and
+    finally the head."]},
+    "14": {"duration": 37.00, "timestamps": [[01.00, 06.00], [07.00, 13.00], [15.00, 20.00], [26.00, 27.00], [29.00, 36.00]],
+    "sentences": ["Lie down on your stomach and rest your forehead on the ground. Keep your toes together ", " inhale deeply, gently press your palms into the ground and lift your upper body off the ground. Your head, chest and abdomen should be lifted, while the rest of your body should continue to be in contact with the ground.",
+    "Look to your left and right", "Again lie down and relax.", "Lift your head and look to your right and left."]},
+    "15": {"duration": 60.03, "timestamps": [[01.00, 07.00], [09.00, 10.00], [12.00, 22.00], [28.00, 31.00], [35.00, 59.00]],
+    "sentences": ["Begin by lying prone on the floor, keep your hands to either side of the body and legs straight with toes touching each other.",
+    "bring your chin forward, position it on the ground, and gaze straight ahead. ", "look on your left and then right side", "look on your left and then right side",
+    "Look upwards." ]},
+    "16": {"duration": 49.00, "timestamps": [[13.00, 40.00], [41.00, 43.00]],
+    "sentences": ["bring your chin forward, position it on the ground, and gaze straight ahead. ", "look on your left and then right side."]}
+}

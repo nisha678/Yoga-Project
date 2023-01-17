@@ -1,0 +1,38 @@
+{
+    "1": {"duration": 18.00, "timestamps": [[00.00, 02.00], [03.00, 05.00], [06.00 09.00], [10.00, 13.00], [16.00, 17.00]], 
+    "sentences": ["Lie down on your stomach.", "Take a deep breathe and slowly lift your head.", "Straighten your arms by arching 
+    your back and tilt your haed to look up, to the right and left.", "Maintain the pose.", "Bring your abdomen, chestand back to 
+    the floor."]},
+    "2": {"duration": 47.00, "timestamps": [[00.00, 05.00], [06.00, 07.00], [08.00,17.00], [18.00, 29.00], [30.00, 46.00]],  
+    "sentences": ["Lie down on your stomach with your toes flat on the floor.",   
+    "Taking a deep breath in, slowly lift your head, chest and abdomen. Keep your navel on the floor.",
+    "If possible, straighten your arms by arching your back as much as possible; tilt your head back and look up  
+    Maintain the pose while breathing evenly for 4-5 breaths.", " Now, breathe out, and gently bring your abdomen, chest, and head back to the floor and relax."]}, 
+    "3": {"duration": 41.00, "timestamps": [[00.00, 01.00],[0.02, 04.00], [05.00, 09.00], [10.00 40.00]],
+    "sentences":["Lie on your stomach with your toes flat.", "Raise your trunk and head supported by the palms.", "Arch your neck and look upward gently.", "Put pressure on your toes by pressing them onto the floor and look left and right."]},
+    "4":  {"duration": 41.00, "timestamps": [[00.00, 02.00], [03.00, 25.00], [27.00,35.00], [36.00, 39.00], [40.00, 41.00]],  
+    "sentences": ["Lie down on your stomach with your toes flat on the floor.", "soles facing upwards, look left and slowly turn your head to right." 
+    "Place both hands in such a way that palms are touching ground under your shoulders, elbows should be parallel and close to your torso.",  
+    "Taking a deep breath in, slowly lift your head, chest and abdomen. Keep your navel on the floor.","Keep breathing with awareness, as you curve your spine."]},
+    "5": {"duration": 53.00, "timestamps": [[02.00, 05.00], [10.00, 12.00], [13.00 52.00]],
+    "sentences": ["Keep your feet together and your toes touching the ground. Place your hands at shoulder level and palms on floor"," lift your head, chest and abdomen and make sure that you keep the navel on the floor.", "Look left and right."]},
+    "6": {"duration": 48.00, "timestamps": [[01.00, 07.00], [08.00, 45.00]],
+    "sentences": ["Lift your upper body off the ground your head, chest and abdomen should be lifted", "look on your left and then right side"] },
+    "7": {"duration": 42.00, "timestamps": [[00.00, 01.00 ], [02.00, 05.00], [06.00, 10.00], [11.00, 14.00], [15.00, 41.00]],
+    "sentences": [" Lie down in prone position on the flat surface area. Keep your feet together and toes against the floor, facing upwards.", " Now raise your shoulders using the strength of your arms. Using your back muscles, raise your chest.
+    Now use the strength of your arms to raise your trunk. Look upward trying to hold your breath.", "Look on your left side then Look at your right side." ]},
+    "8": {"duration": 41.00, "timestamps": [[00.00, 02.00], [03.00, 05.00] , [06.00, 08.00], [09.00, 40.00]],
+    "sentences": ["Lie on your stomach", "look on your left side", "look on your right side", "look on you right na left sidewith your haed up."]},
+    "9": {"duration": 47.00, "timestamps": [[00.00, 04.00], [05.00, 12.00], [14.00, 42.00]],
+    "sentences": ["Start with lying down on the floor on your stomach at a comfortable level preferably on a yoga mat. Keep your feet together with the tops of them against the floor.", "raise the chest to such a level that arms gets straight.",
+    ,"Look left and right."]},
+    "10": {"duration": 41.00, "timestamps": [[00.00, 02.00], [03.00, 40.00]],
+    "sentences": ["With inhalation slowly raise your head and start lifting your chest up, keeping your chest open, use your back muscles for the lift and put less pressure on the hands.", 
+    "Look left and right."]},
+    "11": {"duration": 59.00, "timestamps": [[01.00, 04.00], [05.00, 12.00], [13.00, 22.00], [23.00, 29.00], [30.00, 39.00], [40.00, 58.00]],
+    "sentences": ["Lie on your stomach. Bend your elbows fully and place your palms on the floor at shoulder level.", "By inhaling, bend your back raising your torso, and straighten your hands. Arch your neck and raise your head. Keep your eye-sight in the upward direction.",
+    "look on your left and then right side", "Look up again", "look on your left and then right side", "Look up again", "look on your left and then right side." ]}, 
+    "12": {"duration": 27.00, "timestamps": [[01.00, 02.00], [03.00, 12.00], [13.00, 17.00], [18.00, 25.00]],
+    "sentences": ["Lie down flat on your stomach with your head on the floor, legs straight and feet together.", "With inhalation slowly raise your head and start lifting your chest up, keeping your chest open, use your back muscles for the lift and put less pressure on the hands.",
+    "Look left and right slowly.", "Look up."] }
+}
